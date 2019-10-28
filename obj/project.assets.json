@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tyler/Documents/IntermediateCSharp/IntermediateCSharp.csproj",
+      "projectUniqueName": "/Users/tyler/Documents/GitHub/IntermediateCSharp/IntermediateCSharp.csproj",
       "projectName": "IntermediateCSharp",
-      "projectPath": "/Users/tyler/Documents/IntermediateCSharp/IntermediateCSharp.csproj",
+      "projectPath": "/Users/tyler/Documents/GitHub/IntermediateCSharp/IntermediateCSharp.csproj",
       "packagesPath": "/Users/tyler/.nuget/packages/",
-      "outputPath": "/Users/tyler/Documents/IntermediateCSharp/obj/",
+      "outputPath": "/Users/tyler/Documents/GitHub/IntermediateCSharp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
