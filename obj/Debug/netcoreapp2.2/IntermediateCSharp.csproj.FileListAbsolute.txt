@@ -1,0 +1,11 @@
+/Users/tyler/Documents/IntermediateCSharp/obj/Debug/netcoreapp2.2/IntermediateCSharp.csprojAssemblyReference.cache
+/Users/tyler/Documents/IntermediateCSharp/obj/Debug/netcoreapp2.2/IntermediateCSharp.csproj.CoreCompileInputs.cache
+/Users/tyler/Documents/IntermediateCSharp/obj/Debug/netcoreapp2.2/IntermediateCSharp.AssemblyInfoInputs.cache
+/Users/tyler/Documents/IntermediateCSharp/obj/Debug/netcoreapp2.2/IntermediateCSharp.AssemblyInfo.cs
+/Users/tyler/Documents/IntermediateCSharp/bin/Debug/netcoreapp2.2/IntermediateCSharp.deps.json
+/Users/tyler/Documents/IntermediateCSharp/bin/Debug/netcoreapp2.2/IntermediateCSharp.runtimeconfig.json
+/Users/tyler/Documents/IntermediateCSharp/bin/Debug/netcoreapp2.2/IntermediateCSharp.runtimeconfig.dev.json
+/Users/tyler/Documents/IntermediateCSharp/bin/Debug/netcoreapp2.2/IntermediateCSharp.dll
+/Users/tyler/Documents/IntermediateCSharp/bin/Debug/netcoreapp2.2/IntermediateCSharp.pdb
+/Users/tyler/Documents/IntermediateCSharp/obj/Debug/netcoreapp2.2/IntermediateCSharp.dll
+/Users/tyler/Documents/IntermediateCSharp/obj/Debug/netcoreapp2.2/IntermediateCSharp.pdb
