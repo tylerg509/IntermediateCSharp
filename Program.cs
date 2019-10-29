@@ -6,6 +6,7 @@ namespace IntermediateCSharp
 
     class Program
     {
+        //use tryparse
         static void Main(string[] args)
         {
             int number;
@@ -17,6 +18,7 @@ namespace IntermediateCSharp
 
         }
 
+        //shows how you can use a method 
         static void UserParams()
         {
             var calculator = new Calculator();
@@ -27,6 +29,7 @@ namespace IntermediateCSharp
         }
         static void UsePoints()
         {
+            //shows how you can initialize an object and overload the object
             try
             {
                 var point = new Point(10,20);
