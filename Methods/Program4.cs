@@ -4,10 +4,10 @@ namespace IntermediateCSharp
 {
 
 
-    class Program
+    class Program44
     {
         //use tryparse
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             int number;
             var result = int.TryParse("abc", out number);
@@ -19,7 +19,7 @@ namespace IntermediateCSharp
         }
 
         //shows how you can use a method 
-        static void UserParams()
+        static void UserParams4()
         {
             var calculator = new Calculator();
             Console.WriteLine(calculator.Add(1,2));
@@ -27,7 +27,7 @@ namespace IntermediateCSharp
             Console.WriteLine(calculator.Add(new int[]{5,15,631,5}));
 
         }
-        static void UsePoints()
+        static void UsePoints4()
         {
             //shows how you can initialize an object and overload the object
             try
