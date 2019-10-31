@@ -4,10 +4,10 @@ using System.Collections.Generic;
 namespace IntermediateCSharp
 {
 
-    class Program
+    class Program6
     {
         //use tryparse
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             var customer = new Customer2(1);
             customer.Orders.Add(new Order2());
