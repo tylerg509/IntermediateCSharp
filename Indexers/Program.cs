@@ -3,9 +3,9 @@ using System;
 namespace IntermediateCSharp
 {
 
-    public class Program
+    public class Program9
     {
-        static void Main(string[] args)
+        static void Main9(string[] args)
         {
             var cookie = new HttpCookie();
             cookie["name"] = "Tyler";
