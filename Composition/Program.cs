@@ -3,7 +3,7 @@ using System;
 namespace IntermediateCSharp
 {
 
-    public class Program
+    public class Program10
     {
         static void Main(string[] args)
         {
