@@ -3,18 +3,18 @@ using System;
 
 namespace IntermediateCSharp
 {
-    public class GoldCustomer : Customer
+    public class GoldCustomer : Customer12
     {
         public void OfferVoucher()
         {
             Console.WriteLine(this.Name);
         }
     }
-    class Program
+    class Program12
     {
-        static void Main(string[] args)
+        static void Main12(string[] args)
         {
-            var customer = new Customer();
+            var customer = new Customer12();
         }
     }
 }

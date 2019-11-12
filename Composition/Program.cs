@@ -5,7 +5,7 @@ namespace IntermediateCSharp
 
     public class Program10
     {
-        static void Main(string[] args)
+        static void Main10(string[] args)
         {
             var dbMigrator = new DbMigrator(new Logger());
 
