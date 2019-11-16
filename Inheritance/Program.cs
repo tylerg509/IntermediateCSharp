@@ -6,7 +6,7 @@ namespace IntermediateCSharp
     {
         static void Main10(string[] args)
         {
-            var text = new Text();
+            var text = new Text1();
             text.Width = 100;
             text.Copy();
         }
